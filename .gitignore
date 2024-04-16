@@ -4,6 +4,8 @@
 ### img y png ###
 *.img
 *.png
+imgs/*.png
+
 
 ### Linux ###
 *~
